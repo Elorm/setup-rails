@@ -60,3 +60,6 @@ ln -sb dotfiles/bashrc .bashrc
 ln -sb dotfiles/vimrc .vimrc
 ln -sf dotfiles/emacs.d .emacs.d
 
+
+./pgsetup.sh
+
