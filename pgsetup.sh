@@ -1,5 +1,5 @@
 #Install postgres
-sudo apt-get install -y postgresql postgresql-contrib
+sudo apt-get install -y postgresql postgresql-contrib libpq-dev
 
 # Symlink into home.
 # Note the use of backticks, PWD, and the -t flag.
